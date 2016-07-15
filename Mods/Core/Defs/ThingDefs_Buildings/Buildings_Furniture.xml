@@ -123,7 +123,7 @@
 
   <ThingDef ParentName="HighQualityFurnitureBase">
     <defName>DoubleBed</defName>
-    <label>double bed</label>
+    <label>Double Bed</label>
     <Description>A simple double-wide bed that fits two people.</Description>
     <ThingClass>Building_Bed</ThingClass>
     <graphicData>
@@ -411,7 +411,7 @@
 
   <ThingDef ParentName="FurnitureBase">
     <defName>Stool</defName>
-    <label>stool</label>
+    <label>Stool</label>
     <graphicData>
       <texPath>Things/Building/Furniture/Stool</texPath>
       <graphicClass>Graphic_Multi</graphicClass>

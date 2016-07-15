@@ -62,7 +62,7 @@
   <!--=============== Improvised turret ===============-->
    <ThingDef ParentName="TurretBase">
     <defName>TurretGun</defName>
-	<label>Sentry light turret</label>
+	<label>Sentry Light Turret</label>
     <graphicData>
       <texPath>Things/Building/Security/TurretImprovised</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -110,7 +110,7 @@
   
    <ThingDef ParentName="TurretBase">
     <defName>Turret_Blaster</defName>
-    <label>Sentry blaster turret</label>
+    <label>Sentry Blaster Turret</label>
     <graphicData>
       <texPath>Things/Building/Turrets/MachineGunBase</texPath>
     </graphicData>
@@ -150,7 +150,7 @@
  
    <ThingDef ParentName="TurretBase">
     <defName>Turret_Laserbeam</defName>
-    <label>Sentry laserbeam turret</label>
+    <label>Sentry Laserbeam Turret</label>
     <graphicData>
       <texPath>Things/Building/Security/PrecisionTurretBase</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -199,7 +199,7 @@
 
   <ThingDef ParentName="TurretBase">
     <defName>Turret_Heavy</defName>
-    <label>Sentry heavy turret</label>
+    <label>Sentry Heavy Turret</label>
     <graphicData>
       <texPath>Things/Building/Turrets/MachineGunBase</texPath>
     </graphicData>
@@ -238,7 +238,7 @@
   
   <ThingDef ParentName="TurretBase">
 		<defName>NavalGunTurretGun</defName>
-		<label>Sentry naval turret</label>
+		<label>Sentry Naval Turret</label>
 		<graphicData>
 		<texPath>Things/Building/Security/NavalGunTurretGun</texPath>
     		<graphicClass>Graphic_Single</graphicClass>
@@ -285,7 +285,7 @@
   
 	<ThingDef ParentName="TurretBase">
 	<defName>Turret_SentryRocketLauncher</defName>
-	<label>Sentry rocket launcher</label>
+	<label>Sentry Rocket Launcher</label>
     <graphicData>
 		<texPath>Things/Building/Security/MachineGunBase</texPath>
     <graphicClass>Graphic_Single</graphicClass>
@@ -334,7 +334,7 @@
 	
   <ThingDef Name="MortarBase" ParentName="BuildingBase" Abstract="True">
 	<defName>Turret_MortarBombCR</defName>
-	<label>81mm artillery mortar</label>
+	<label>81mm Artillery Mortar</label>
     <description>A mortar that launches explosive shells. Must be manned.</description>
     <thingClass>Combat_Realism.Building_TurretGunCR</thingClass>
     <graphicData>
@@ -592,7 +592,7 @@
   
   <ThingDef ParentName="TurretMannedBase">
     <defName>Turret_ChainGun</defName>
-    <label>30mm GSh-30 cannon</label>
+    <label>30mm GSh-30 Cannon</label>
     <graphicData>
     <texPath>Things/Building/Security/TurretGun_three</texPath>
 	<graphicClass>Graphic_Single</graphicClass>
@@ -672,7 +672,7 @@
 
   <ThingDef ParentName="TurretMannedBase">
 		<defName>Turret_Oerlikonautocannon</defName>
-		<label>20mm Oerlikon autocannon</label>
+		<label>20mm Oerlikon Autocannon</label>
 		<graphicData>
 			<texPath>Things/Building/Security/AMTurretGun</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -711,7 +711,7 @@
 
   <ThingDef ParentName="TurretMannedBase">
     <defName>Turret_VulcanCannon</defName>
-    <label>20mm Vulcan cannon</label>
+    <label>20mm Vulcan Cannon</label>
     <graphicData>
     <texPath>Things/Building/Security/VulcanCannon</texPath>
     <graphicClass>Graphic_Single</graphicClass>
@@ -830,7 +830,7 @@
   
   <ThingDef ParentName="TurretMannedBase">
     <defName>Turret_Flak</defName>
-    <label>90mm Flak turret</label>
+    <label>90mm Flak Turret</label>
     <graphicData>
       <texPath>Things/Building/Turrets/FlakTurret_Base</texPath>
     </graphicData>
@@ -864,7 +864,7 @@
 
   <ThingDef ParentName="TurretMannedBase">
 	<defName>Turret_Cannon</defName>
-	<label>120mm tank cannon turret</label>
+	<label>120mm Tank Cannon Turret</label>
 	<graphicData>
 		<texPath>Things/Building/Security/TurretGun_Cannon</texPath>
 		<graphicClass>Graphic_Single</graphicClass>
@@ -908,7 +908,7 @@
 
   <ThingDef ParentName="TurretMannedBase">
 		<defName>HowitzerTurretGun</defName>
-		<label>155mm Howitzer Cannon turret</label>
+		<label>155mm Howitzer Cannon Turret</label>
     <graphicData>
 		<texPath>Things/Building/Security/SpotlightBase</texPath>
     <graphicClass>Graphic_Single</graphicClass>

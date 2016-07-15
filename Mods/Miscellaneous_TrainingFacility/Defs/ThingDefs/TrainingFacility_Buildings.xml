@@ -4,7 +4,7 @@
 	<ThingDef ParentName="BuildingBase">
 		<defName>ShootingRangeTarget</defName>
 		<thingClass>TrainingFacility.Building_ShootingRange</thingClass>
-		<label>shooting target</label>
+		<label>Shooting Target</label>
 		<description>The shooting range is a place where you can train your hand-eye coordination.</description>
 		<graphicData>
 			<texPath>Things/Building/TrainingFacility/ShootingRangeTarget</texPath>
@@ -51,7 +51,7 @@
 	<ThingDef ParentName="BuildingBase">
 		<defName>MartialArtsTarget</defName>
 		<thingClass>TrainingFacility.Building_MartialArtsTarget</thingClass>
-		<label>martial arts target</label>
+		<label>Martial Arts Target</label>
 		<description>The martial arts dummy is a place where you can train your martial arts, with or without a weapon.</description>
 		<graphicData>
 			<texPath>Things/Building/TrainingFacility/MartialArtsTarget</texPath>

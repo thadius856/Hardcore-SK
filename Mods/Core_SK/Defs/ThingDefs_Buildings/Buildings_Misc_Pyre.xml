@@ -14,7 +14,7 @@
 
   <ThingDef ParentName="PyreBase">
     <defName>Pyre</defName>
-    <label>pyre</label>
+    <label>Pyre</label>
     <description>A big pile of wood. Can be lit to start a campfire party. Get your colonists even happier with some beers!</description>
     <thingClass>CampfireParty.Building_Pyre</thingClass>
     <category>Building</category>

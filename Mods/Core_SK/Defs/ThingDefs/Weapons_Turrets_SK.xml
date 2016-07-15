@@ -314,11 +314,11 @@
 	</ThingDef>
 	
 	
-<!-- ================ Sentry rocket launcher ============== -->
+<!-- ================ Sentry Rocket Launcher ============== -->
 
 	<ThingDef ParentName="BaseAutoTurretGun">
 		<defName>Gun_SentryRocketLauncher</defName>
-		<label>Sentry rocket launcher</label>
+		<label>Sentry Rocket Launcher</label>
     <graphicData>
 		<texPath>Things/Building/Security/EMPTurretGun_Top</texPath>
 		<graphicClass>Graphic_Single</graphicClass>
@@ -650,11 +650,11 @@
 	</ThingDef>
 
 
-<!-- ================ 20mm Oerlikon autocannon ============== -->
+<!-- ================ 20mm Oerlikon Autocannon ============== -->
 
   <ThingDef ParentName="BaseTurretGun">
 		<defName>Gun_Oerlikonautocannon</defName>
-		<label>20mm Oerlikon autocannon</label>
+		<label>20mm Oerlikon Autocannon</label>
     <graphicData>
 		<texPath>Things/Building/Security/AMTurretGun_Top</texPath>
 		<graphicClass>Graphic_Single</graphicClass>

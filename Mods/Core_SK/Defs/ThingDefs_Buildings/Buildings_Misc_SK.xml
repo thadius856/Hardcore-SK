@@ -561,7 +561,7 @@
   
       <ThingDef ParentName="BuildingBase">
     <defName>CookingTools</defName>
-    <label>Cooking tools</label>
+    <label>Cooking Tools</label>
     <graphicData>
       <texPath>Things/Building/Production/CookingTools</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -577,7 +577,7 @@
       <WorkToMake>2800</WorkToMake>
       <Flammability>1.0</Flammability>
     </statBases>
-    <description>Increases work speed. Needs to be placed near workbench. One workbench can be simultaneously linked to only two tool cabinets.</description>
+    <description>Increases work speed. Needs to be placed near a cooking workbench. One set of cooking tools can be simultaneously linked to only two cooking workbenches.</description>
     <size>(1,1)</size>
 		<stuffCategories>
 			<li>Metallic</li>
@@ -608,7 +608,7 @@
 
   <ThingDef ParentName="BuildingBase">
     <defName>FirefoamPopper</defName>
-    <label>Firefoam popper</label>
+    <label>Firefoam Popper</label>
     <thingClass>Building_FirefoamPopper</thingClass>
     <description>When touched by fire or triggered by hand, this pops and sprays a fire-extinguishing foam in a circular field around itself.</description>
     <graphicData>
@@ -1111,7 +1111,7 @@
   
   <ThingDef ParentName="BuildingBase">
     <defName>DermalRegenerator</defName>
-    <label>Dermal regenerator</label>
+    <label>Dermal Regenerator</label>
     <graphicData>
       <texPath>Things/Building/DermalRegenerator</texPath>
       <graphicClass>Graphic_Single</graphicClass>

@@ -372,7 +372,7 @@
 
   <ThingDef ParentName="BuildingBase">
     <defName>TrapDeadfall</defName>
-    <label>deadfall trap</label>
+    <label>Deadfall Trap</label>
     <thingClass>Building_TrapRearmable</thingClass>
     <graphicData>
       <texPath>Things/Building/Security/DeadfallArmed</texPath>
@@ -414,7 +414,7 @@
 
   <ThingDef ParentName="BuildingBase">
     <defName>TrapIEDBomb</defName>
-    <label>IED trap</label>
+    <label>IED Trap</label>
     <thingClass>Building_TrapExplosive</thingClass>
     <graphicData>
       <texPath>Things/Building/Security/IEDBomb</texPath>
@@ -462,7 +462,7 @@
   
   <ThingDef ParentName="BuildingBase">
     <defName>TrapIEDIncendiary</defName>
-    <label>IED incendiary trap</label>
+    <label>IED Incendiary Trap</label>
     <thingClass>Building_TrapExplosive</thingClass>
     <graphicData>
       <texPath>Things/Building/Security/IEDIncendiary</texPath>

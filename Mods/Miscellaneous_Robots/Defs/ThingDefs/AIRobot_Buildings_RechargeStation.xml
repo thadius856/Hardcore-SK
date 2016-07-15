@@ -46,7 +46,7 @@
 
 	<ThingDef Class="AIRobot.ThingDef_AIRobot_Building_RechargeStation" ParentName="AIRobotRechargeStationBase">
 		<defName>AIRobot_RechargeStation_Hauler</defName>
-		<label>Hauler Base Station</label>
+		<label>HaulerBot Base Station</label>
 		<description>This station comes equipped with a specialized robot.</description>
 		<graphicData>
 			<texPath>Things/Building/AIRobot_RechargeStation/AIRobotRechargeStation_HBot</texPath>
@@ -85,7 +85,7 @@
 
 	<ThingDef Class="AIRobot.ThingDef_AIRobot_Building_RechargeStation" ParentName="AIRobotRechargeStationBase">
 		<defName>AIRobot_RechargeStation_Cleaner</defName>
-		<label>Cleaner Base Station</label>
+		<label>CleanerBot Base Station</label>
 		<description>This station comes equipped with a specialized robot.</description>
 		<graphicData>
 			<texPath>Things/Building/AIRobot_RechargeStation/AIRobotRechargeStation_CBot</texPath>

@@ -16,7 +16,7 @@
 
   <ThingDef ParentName="BuildingBase">
     <defName>AquacultureBasin</defName>
-    <Label>aquaculture basin</Label>
+    <Label>Aquaculture Basin</Label>
     <Description>A basin designed to breed fishes. Water quality is auto-regulated. You need to provide an external temperature regulation and some food in attached hopper to feed the bred fishes.</Description>
     <thingClass>FishIndustry.Building_AquacultureBasin</thingClass>
     <TickerType>Normal</TickerType>

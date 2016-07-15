@@ -5,7 +5,7 @@
   <ThingDef>
     <defName>Building_RTQuantumRelay</defName>
     <label>Quantum Relay</label>
-    <description>A remote extension for a quantum warehouse - items specified in the filter will be drawn from the warehouse, and applicable adjacent items will be sent back.</description>
+    <description>A remote extension for a Quantum Warehouse. Items specified in the filter will be drawn from the connected warehouse onto the relay and applicable items in an adjacent stockpile zone will be sent to the warehouse.</description>
     <designationCategory>Accessories</designationCategory>
     <category>Building</category>
     <thingClass>Building_Storage</thingClass>

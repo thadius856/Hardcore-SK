@@ -16,7 +16,7 @@
 
   <ThingDef ParentName="BuildingBase">
     <defName>FungiponicsBasin</defName>
-    <label>fungiponics basin</label>
+    <label>Fungiponics Basin</label>
     <thingClass>CaveworldFlora.Building_FungiponicsBasin</thingClass>
     <graphicData>
       <texPath>Things/Building/Production/FungiponicsBasin</texPath>

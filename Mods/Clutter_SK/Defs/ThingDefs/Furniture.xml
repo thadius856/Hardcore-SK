@@ -84,8 +84,8 @@
   
   <ThingDef Class="Clutter_Furniture.ClutterThingDefs" ParentName="FurnitureBase">
     <defName>ClutterEkieBed</defName>
-    <label>Sleeping pod</label>
-    <Description>Redesigned cryo pod.</Description>
+    <label>Sleeping Pod</label>
+    <Description>A cryogenic stasis pod which has been repurposed into a bed.</Description>
     <ThingClass>Clutter_Furniture.Beds</ThingClass>
     <graphicData>
       <texPath>Clutter/Beds/EkieBed/MBed</texPath>

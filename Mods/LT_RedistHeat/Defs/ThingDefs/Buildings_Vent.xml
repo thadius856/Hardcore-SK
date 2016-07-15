@@ -107,7 +107,7 @@
 
     <ThingDef ParentName="VentBase">
         <defName>RedistHeat_ActiveVent</defName>
-        <label>Active vent</label>
+        <label>Active Vent</label>
         <description>A simple vent for equalizing the temperature between two rooms without allowing people to walk between them. Orange colored side must be facing towards a room that that you want to control.</description>
         <thingClass>RedistHeat.Building_ActiveVent</thingClass>
         <graphicData>

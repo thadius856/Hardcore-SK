@@ -462,9 +462,9 @@
 
 <ThingDef ParentName="BenchBase">
 	<DefName>Canningstove</DefName>
-	<label>Electric Pressure Cooker</label>
+	<label>Electric Pressure Canner</label>
 	<ThingClass>Building_WorkTable_HeatPush</ThingClass>
-	<Description>A stove for canning foods, drying fruit, and making tofu. Requires power.</Description>
+	<Description>A specialized device for canning foods, drying fruit, and making tofu. Requires power.</Description>
 	<graphicData>
       <texPath>Things/Building/Production/Canningstove</texPath>
       <graphicClass>Graphic_Multi</graphicClass>
@@ -5208,7 +5208,7 @@
   
   <ThingDef ParentName="BuildingBase">
     <defName>PremitiveHydroponic</defName>
-    <label>Saturated soil</label>
+    <label>Saturated Soil</label>
     <thingClass>HydroponicRoom.Building_PlantGrowerLinked</thingClass>
     <graphicData>
       <ShaderType>CutoutComplex</ShaderType>
