@@ -593,7 +593,7 @@
 
 <ThingDef ParentName="CrateBase">
 <defName>LaserTurret_Crate</defName>
-<label>Senter Laserbeam Turret Crate</label>
+<label>Sentry Laserbeam Turret Crate</label>
 <description>Use this to build a Sentry Laserbeam Turret, a type of unmanned automatic turret. It requires 2,500 W to function and does not need ammo.</description>
     <graphicData>
 <texPath>Things/Item/Resource/WeaponCrate</texPath>
