@@ -4,7 +4,7 @@
   <ThingDef>
     <defName>Building_RTQuantumWarehouse</defName>
     <label>Quantum Warehouse</label>
-    <description>A supplement to quantum stockpiles, when placed under a stockpile zone will network all quantum stockpiles in the zone to minimize amount of incomplete item stacks and distribute stacks across all quantum stockpile cells.</description>
+    <description>A supplement to Quantum Stockpiles. When placed under a stockpile zone will network all Quantum Stockpiles in the zone to minimize amount of incomplete item stacks and distribute stacks across all Quantum Stockpile cells.</description>
     <designationCategory>Accessories</designationCategory>
     <category>Building</category>
     <thingClass>Building</thingClass>

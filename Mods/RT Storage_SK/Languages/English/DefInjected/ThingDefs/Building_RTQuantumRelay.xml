@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <Building_RTQuantumRelay.label>quantum relay</Building_RTQuantumRelay.label>
-  <Building_RTQuantumRelay.description>A remote extension for a quantum warehouse - items specified in the filter will be drawn from the warehouse, and applicable adjacent items will be sent to it.</Building_RTQuantumRelay.description>
+  <Building_RTQuantumRelay.label>Quantum Relay</Building_RTQuantumRelay.label>
+  <Building_RTQuantumRelay.description>A remote extension for a Quantum Warehouse. Items specified in the filter will be drawn from the connected warehouse onto the relay and applicable items in an adjacent stockpile zone will be sent to the warehouse.</Building_RTQuantumRelay.description>
   
 </LanguageData>

@@ -3467,7 +3467,7 @@
   <ThingDef ParentName="ResourceBase">
     <defName>Rubber</defName>
     <label>Rubber</label>
-    <description>Rubber is useful for a variety of things such as duct pipes, pumps or as a building material supplement/additive.</description>
+    <description>Rubber is useful for a variety of things such as Duct Pipes, pumps or as a building material supplement/additive.</description>
     <graphicData>
     <texPath>Things/Item/Resource/Rubber</texPath>
     <Color>(255,255,255)</Color>

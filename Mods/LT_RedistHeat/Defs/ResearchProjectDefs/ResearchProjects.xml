@@ -3,8 +3,8 @@
 
 	<ResearchProjectDef>
 	    <defName>RedistHeat_AirCirculation</defName>
-	    <label>Air circulation</label>
-	    <description>Allows you to build active vents and smart duct outlets.</description>
+	    <label>Air Circulation</label>
+	    <description>Allows you to build Active Vents and Smart Duct outlets.</description>
 	    <totalCost>500</totalCost>
 		<prerequisites>
 			<li>ConstructionII</li>
@@ -14,7 +14,7 @@
 
 	<ResearchProjectDef>
 	    <defName>RedistHeat_TemperatureControl</defName>
-	    <label>Temperature control</label>
+	    <label>Temperature Control</label>
 	    <description>Allows you to build industrial temperature controller buildings.</description>
 	    <totalCost>800</totalCost>
 		<prerequisites>

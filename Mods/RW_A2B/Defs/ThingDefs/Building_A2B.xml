@@ -128,7 +128,7 @@
 
     <ThingDef ParentName="A2BMinified">
         <defName>A2BCurve</defName>
-        <label>curved belt</label>
+        <label>Curved Belt</label>
         <thingClass>Building</thingClass>
         <graphicData>
             <texPath>Things/Building/Curve</texPath>

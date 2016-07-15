@@ -59,7 +59,7 @@
 
 <ThingDef ParentName="CrateBase">
 <defName>Oerlikonautocannon_Crate</defName>
-<label>20mm Oerlikon autocannon</label>
+<label>20mm Oerlikon Autocannon</label>
 <description>Use this to build an Anti-Materiel Turret, a type of stationary manned turret. It uses .50calx6 AM Turret Rounds for ammo.</description>
     <graphicData>  
 <texPath>Things/Item/Resource/WeaponCrate</texPath>
@@ -86,7 +86,7 @@
 
 <ThingDef ParentName="CrateBase">
 <defName>SentryBlasterTurret_Crate</defName>
-<label>Sentry blaster crate</label>
+<label>Sentry Blaster Crate</label>
 <description>Use this to build a sentry blaster turret crate, a type of automatic turrets. Requires power to function but does not need ammo.</description>
     <graphicData> 
 <texPath>Things/Item/Resource/WeaponCrate</texPath>
@@ -113,7 +113,7 @@
 
 <ThingDef ParentName="CrateBase">
 <defName>SentryRocketLauncher_Crate</defName>
-<label>Sentry rocket launcher Crate</label>
+<label>Sentry Rocket Launcher Crate</label>
 <description>Use this to build an Sentry rocket launcher, a type of stationary unmanned turret.</description>
     <graphicData> 
 <texPath>Things/Item/Resource/WeaponCrate</texPath>
@@ -274,8 +274,8 @@
 
 <ThingDef ParentName="CrateBase">
 <defName>Chain_Crate</defName>
-<label>30mm GSh-30 cannon vrate</label>
-<description>Use this to build a 30mm GSh-30 cannon, a type of stationary manned turret. It uses 35mmx3 Autocannon Shells for ammo.</description>
+<label>30mm GSh-30 Cannon Crate</label>
+<description>Use this to build a 30mm GSh-30 Cannon, a type of stationary manned turret. It uses 35mmx3 Autocannon Shells for ammo.</description>
     <graphicData>   
 <texPath>Things/Item/Resource/WeaponCrate</texPath>
 <graphicClass>Graphic_Single</graphicClass>
@@ -301,8 +301,8 @@
 
 <ThingDef ParentName="CrateBase">
 <defName>NavalGunTurret_Crate</defName>
-<label>Sentry naval crate</label>
-<description>Use this to build Sentry naval turret, a type of stationary unmanned turret.</description>
+<label>Sentry Naval Turret Crate</label>
+<description>Use this to build Sentry Naval Turret, a type of stationary unmanned turret.</description>
 <graphicData>
 <texPath>Things/Item/Resource/WeaponCrate</texPath>
 <graphicClass>Graphic_Single</graphicClass>  
@@ -379,8 +379,8 @@
 
 <ThingDef ParentName="CrateBase">
 <defName>AGSturret_Crate</defName>
-<label>30mm AGS-17 crate</label>
-<description>Use this to build a AGS-17, a type of stationary manned turret. It uses 30mmx6 GL Turret Grenades for ammo.</description>
+<label>30mm AGS-17 Crate</label>
+<description>Use this to build an AGS-17, a type of stationary manned turret. It uses 30mmx6 GL Turret Grenades for ammo.</description>
     <graphicData> 
 <texPath>Things/Item/Resource/WeaponCrate</texPath>
 <graphicClass>Graphic_Single</graphicClass>
@@ -405,7 +405,7 @@
 
 <ThingDef ParentName="CrateBase">
 <defName>AGCturret_Crate</defName>
-<label>30mm AGS-30 crate</label>
+<label>30mm AGS-30 Crate</label>
 <description>Use this to build AGS-30, a type of stationary manned turret. It uses 30mmx6 GL Turret Grenades for ammo.</description>
     <graphicData> 
 <texPath>Things/Item/Resource/WeaponCrate</texPath>
@@ -431,8 +431,8 @@
 
 <ThingDef ParentName="CrateBase">
 <defName>FlakTurret_Crate</defName>
-<label>90mm Flak turret crate</label>
-<description>Use this to build a 90mm Flak turret a type of stationary manned turret. It uses 120mm Cannon Shells for ammo.</description>
+<label>90mm Flak Turret Crate</label>
+<description>Use this to build a 90mm Flak Turret a type of stationary manned turret. It uses 120mm Cannon Shells for ammo.</description>
     <graphicData>
 <texPath>Things/Item/Resource/WeaponCrate</texPath>
 <graphicClass>Graphic_Single</graphicClass>
@@ -458,7 +458,7 @@
 
 <ThingDef ParentName="CrateBase">
 <defName>CannonTurret_Crate</defName>
-<label>120mm Tank cannon crate</label>
+<label>120mm Tank Cannon Crate</label>
 <description>Use this to build a 120mm Tank Cannon, a type of stationary manned turret. It uses 120mm Cannon Shells for ammo.</description>
     <graphicData>
 <texPath>Things/Item/Resource/WeaponCrate</texPath>
@@ -512,7 +512,7 @@
 
 <ThingDef ParentName="CrateBase">
 <defName>MinigunTurret_Crate</defName>
-<label>M134 Minigun crate</label>
+<label>M134 Minigun Crate</label>
 <description>Use this to build a 20mm Vulcan Cannon, a type of stationary manned turret. Requires 800 W to function and it uses 20mmx20 Vulcan Bullets for ammo.</description>
     <graphicData>
 <texPath>Things/Item/Resource/WeaponCrate</texPath>
@@ -539,7 +539,7 @@
 
 <ThingDef ParentName="CrateBase">
 <defName>KPV_Crate</defName>
-<label>14.5mm KPV MG crate</label>
+<label>14.5mm KPV MG Crate</label>
 <description>Use this to build a 14.5mm KPV MG, a type of stationary manned turret. Requires 800 W to function and it uses 20mmx20 Vulcan Bullets for ammo.</description>
     <graphicData>
 <texPath>Things/Item/Resource/WeaponCrate</texPath>
@@ -593,8 +593,8 @@
 
 <ThingDef ParentName="CrateBase">
 <defName>LaserTurret_Crate</defName>
-<label>Laser Turret Crate</label>
-<description>Use this to build a Laser Turret, a type of unmanned automatic turret. It requires 2,500 W to function and does not need ammo.</description>
+<label>Senter Laserbeam Turret Crate</label>
+<description>Use this to build a Sentry Laserbeam Turret, a type of unmanned automatic turret. It requires 2,500 W to function and does not need ammo.</description>
     <graphicData>
 <texPath>Things/Item/Resource/WeaponCrate</texPath>
 <graphicClass>Graphic_Single</graphicClass>
@@ -620,8 +620,8 @@
 
 <ThingDef ParentName="CrateBase">
 <defName>SentryTurret_Crate</defName>
-<label>Sentry  light crate</label>
-<description>Use this to build an Automated Sentry light turret, a type of stationary automatic turret. It requires 800 W to function and does not need ammo.</description>
+<label>Sentry Light Turret Crate</label>
+<description>Use this to build an automated Sentry Light Turret, a type of stationary automatic turret. It requires 800 W to function and does not need ammo.</description>
     <graphicData>
 <texPath>Things/Item/Resource/WeaponCrate</texPath>
 <graphicClass>Graphic_Single</graphicClass>
@@ -647,8 +647,8 @@
 
 <ThingDef ParentName="CrateBase">
 <defName>HeavyTurret_Crate</defName>
-<label>Sentry heavy crate</label>
-<description>Use this to build a Laser Turret, a type of unmanned automatic turret.</description>
+<label>Sentry Heavy Turret Crate</label>
+<description>Use this to build a Sentry Heavy Turret, a type of unmanned automatic turret.</description>
     <graphicData>
 <texPath>Things/Item/Resource/WeaponCrate</texPath>
 <graphicClass>Graphic_Single</graphicClass>

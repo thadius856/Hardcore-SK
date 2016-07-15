@@ -68,7 +68,7 @@
 
    <ThingDef ParentName="BuildingBase">
 	    <DefName>TableRugMaking</DefName>
-	    <label>Rug Making table</label>
+	    <label>Rug Making Table</label>
 	    <ThingClass>Building_WorkTable</ThingClass>
 	    <Description>A table with all the tools needed to make rugs out of various fabrics.</Description>
 	    <graphicData>

@@ -60,7 +60,7 @@
 
     <ThingDef ParentName="A2B2Minified">
         <defName>A2BUndercover</defName>
-        <label>underground belt</label>
+        <label>Underground Belt</label>
         <thingClass>Building</thingClass>
         <category>Building</category>
         <building>
@@ -85,7 +85,7 @@
         </statBases>
         <altitudeLayer>FloorEmplacement</altitudeLayer>
         <pathCost>1000</pathCost>
-        <description>An underground belt.</description>
+        <description>An underground conveyor belt.</description>
         <passability>Standable</passability>
         <rotatable>false</rotatable>
         <terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
@@ -108,7 +108,7 @@
 
     <ThingDef ParentName="A2B2Minified">
         <defName>A2BUndercoverCover</defName>
-        <label>underground belt cover</label>
+        <label>Underground Belt Cover</label>
         <thingClass>Building</thingClass>
         <category>Building</category>
         <selectable>false</selectable>

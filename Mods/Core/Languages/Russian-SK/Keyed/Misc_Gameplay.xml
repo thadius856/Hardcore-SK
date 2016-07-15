@@ -292,7 +292,7 @@
    <!-- Artifact -->
   <UseArtifact>Активировать</UseArtifact>
   
-  <!-- Firefoam popper -->
+  <!-- Firefoam Popper -->
   <TriggerFirefoamPopper>Срабатывание пожарного гидранта</TriggerFirefoamPopper>
 
   <!-- Minification -->

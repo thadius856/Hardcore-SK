@@ -7,7 +7,7 @@
   <ResearchProjectDef>
     <defName>Firefoam</defName>
     <label>firefoam</label>
-    <description>Allows the construction of firefoam poppers; fire-safety buildings which spread fire-retardant foam in response to encroaching flames.</description>
+    <description>Allows the construction of Firefoam Poppers; fire-safety buildings which spread fire-retardant foam in response to encroaching flames.</description>
     <totalCost>800</totalCost>
     <requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
   </ResearchProjectDef>

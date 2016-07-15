@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <CompRTQuantumWarehouse_ConnectedQS>Connected quantum stockpiles: </CompRTQuantumWarehouse_ConnectedQS>
-  <CompRTQuantumWarehouse_NotValid>Quantum warehouse already present.</CompRTQuantumWarehouse_NotValid>
-  <CompRTQuantumWarehouse_SparklesToggle>QW activity indication</CompRTQuantumWarehouse_SparklesToggle>
+  <CompRTQuantumWarehouse_ConnectedQS>Connected Quantum Stockpiles: </CompRTQuantumWarehouse_ConnectedQS>
+  <CompRTQuantumWarehouse_NotValid>Quantum Warehouse already present.</CompRTQuantumWarehouse_NotValid>
+  <CompRTQuantumWarehouse_SparklesToggle>QW Activity Indication</CompRTQuantumWarehouse_SparklesToggle>
   <CompRTQuantumWarehouse_SparklesAreOn>Enabled</CompRTQuantumWarehouse_SparklesAreOn>
   <CompRTQuantumWarehouse_SparkelsAreOff>Disabled</CompRTQuantumWarehouse_SparkelsAreOff>
 

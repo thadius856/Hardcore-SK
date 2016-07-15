@@ -505,7 +505,7 @@
   
   <ThingDef ParentName="HighQualityFurnitureBase">
     <defName>DoubleBed</defName>
-    <label>Double bed</label>
+    <label>Double Bed</label>
     <Description>A simple double-wide bed that fits two people.</Description>
     <ThingClass>Building_Bed</ThingClass>
     <graphicData>
@@ -1525,7 +1525,7 @@
   
   <ThingDef ParentName="TableBase">
     <defName>TableSmall</defName>
-    <label>Table (small)</label>
+    <label>Table (Small)</label>
     <thingClass>Feast.Building_Table</thingClass>
     <graphicData>
       <texPath>Things/Building/Furniture/SmallTable</texPath>
@@ -1711,7 +1711,7 @@
   <ThingDef ParentName="TableBase">
     <thingClass>Building</thingClass>
     <defName>GlassTableShort</defName>
-    <label>Glass Table</label>
+    <label>Table</label>
 	<description>Colonists will eat off of tables when a chair is facing it. This tiny glass table is suitable for 1.</description>
 	<graphicData>
 	<texPath>Things/Building/GlassTableShort</texPath>
@@ -1743,7 +1743,7 @@
   
   <ThingDef ParentName="FurnitureBase">
     <defName>Commode</defName>
-    <label>Commode</label>
+    <label>Dresser</label>
     <description>A place for colonist to store personal belongings. When placed with a bed it will increase comfort and rest effectiveness slightly.</description>
     <graphicData>
       <texPath>Things/Building/Furniture/Dresser</texPath>
@@ -3391,7 +3391,7 @@
   
   <ThingDef ParentName="BuildingBase">
     <defName>Lighting_PathLamp</defName>
-    <label>Path light</label>
+    <label>Path Light</label>
     <thingClass>SK.Building_PL</thingClass>
     <category>Building</category>
     <graphicData>
@@ -3905,7 +3905,7 @@
   
 	<ThingDef ParentName="BuildingBase">
 		<defName>FloorAddonA</defName>
-		<label>Zone marker</label>
+		<label>Zone Marker</label>
 		<thingClass>Building</thingClass>
 		<category>Building</category>
 		 <graphicData>

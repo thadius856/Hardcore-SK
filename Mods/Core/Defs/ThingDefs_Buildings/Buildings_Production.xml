@@ -3,7 +3,7 @@
 
   <ThingDef ParentName="BuildingBase">
     <defName>CraftingSpot</defName>
-    <label>crafting spot</label>
+    <label>Crafting Spot</label>
     <Description>A place for crafting simple things like shivs or bows.</Description>
     <ThingClass>Building_WorkTable</ThingClass>
     <graphicData>

@@ -483,7 +483,7 @@ Beauty: 3.</Description>
 
 	<TerrainDef ParentName="MetalPlateBase">
 		<DefName>PlateCopperBar</DefName>
-		<label>Copper plates</label>
+		<label>Copper Plates</label>
 		<color>(160,115,45)</color>
 		<CostList>
 			<CopperBar>4</CopperBar>
@@ -491,7 +491,7 @@ Beauty: 3.</Description>
 	</TerrainDef>
 	<TerrainDef ParentName="MetalPlateBase">
 		<DefName>PlateSilver</DefName>
-		<label>Silver plated plates</label>
+		<label>Silver-plated Plates</label>
 		<color>(180,173,150)</color>
 		<CostList>
 			<SilverBar>4</SilverBar>
@@ -500,7 +500,7 @@ Beauty: 3.</Description>
 	</TerrainDef>
 	<TerrainDef ParentName="MetalPlateBase">
 		<DefName>PlateGold</DefName>
-		<label>Gold plated plates</label>
+		<label>Gold-plated Plates</label>
 		<color>(255,235,122)</color>
 		<CostList>
 			<GoldBar>3</GoldBar>
@@ -509,7 +509,7 @@ Beauty: 3.</Description>
 	</TerrainDef>
 	<TerrainDef ParentName="MetalPlateBase">
 		<DefName>PlateSteel</DefName>
-		<label>Steel plates</label>
+		<label>Steel Plates</label>
 		<color>(128,128,128)</color>
 		<CostList>
 			<SteelBar>4</SteelBar>
@@ -517,7 +517,7 @@ Beauty: 3.</Description>
 	</TerrainDef>
 	<TerrainDef ParentName="MetalPlateBase">
 		<DefName>PlateKovar</DefName>
-		<label>Kovar plates</label>
+		<label>Kovar Plates</label>
 		<color>(0,107,183)</color>
 		<CostList>
 			<CobaltIronAlloy>4</CobaltIronAlloy>
@@ -525,7 +525,7 @@ Beauty: 3.</Description>
 	</TerrainDef>
 	<TerrainDef ParentName="MetalPlateBase">
 		<DefName>PlateCupronickelAlloy</DefName>
-		<label>Melchior plates</label>
+		<label>Melchior Plates</label>
 		<color>(168,157,125)</color>
 		<CostList>
 			<CupronickelAlloy>4</CupronickelAlloy>
@@ -533,7 +533,7 @@ Beauty: 3.</Description>
 	</TerrainDef>
 	<TerrainDef ParentName="MetalPlateBase">
 		<DefName>PlateNichromeAlloy</DefName>
-		<label>Nichrome plates</label>
+		<label>Nichrome Plates</label>
 		<color>(210,210,210)</color>
 		<CostList>
 			<NichromeAlloy>4</NichromeAlloy>
@@ -1109,7 +1109,7 @@ Beauty: 10.</Description>
 
 	<TerrainDef ParentName="MediumBrickBase">
 		<DefName>MBrickSandstone</DefName>
-		<label>sandstone bricks</label>
+		<label>Sandstone Bricks</label>
 		<color>(126,104,94)</color>
 		<CostList>
 			<BlocksSandstone>4</BlocksSandstone>
@@ -1117,7 +1117,7 @@ Beauty: 10.</Description>
 	</TerrainDef>
 	<TerrainDef ParentName="MediumBrickBase">
 		<DefName>MBrickGranite</DefName>
-		<label>granite bricks</label>
+		<label>Granite Bricks</label>
 		<color>(105,95,97)</color>
 		<CostList>
 			<BlocksGranite>4</BlocksGranite>
@@ -1125,7 +1125,7 @@ Beauty: 10.</Description>
 	</TerrainDef>
 	<TerrainDef ParentName="MediumBrickBase">
 		<DefName>MBrickLimestone</DefName>
-		<label>limestone bricks</label>
+		<label>Limestone Bricks</label>
 		<color>(158,153,135)</color>
 		<CostList>
 			<BlocksLimestone>4</BlocksLimestone>
@@ -1133,7 +1133,7 @@ Beauty: 10.</Description>
 	</TerrainDef>
 	<TerrainDef ParentName="MediumBrickBase">
 		<DefName>MBrickSlate</DefName>
-		<label>slate bricks</label>
+		<label>Slate Bricks</label>
 		<color>(70,70,70)</color>
 		<CostList>
 			<BlocksSlate>4</BlocksSlate>
@@ -1141,7 +1141,7 @@ Beauty: 10.</Description>
 	</TerrainDef>
 	<TerrainDef ParentName="MediumBrickBase">
 		<DefName>MBrickMarble</DefName>
-		<label>marble bricks</label>
+		<label>Marble Bricks</label>
 		<color>(132,135,132)</color>
 		<CostList>
 			<BlocksMarble>4</BlocksMarble>
@@ -1152,7 +1152,7 @@ Beauty: 10.</Description>
 
 	<TerrainDef ParentName="SmallBrickBase">
 		<DefName>SBrickSandstone</DefName>
-		<label>sandstone small bricks</label>
+		<label>Sandstone Small bricks</label>
 		<color>(126,104,94)</color>
 		<CostList>
 			<BlocksSandstone>4</BlocksSandstone>
@@ -1160,7 +1160,7 @@ Beauty: 10.</Description>
 	</TerrainDef>
 	<TerrainDef ParentName="SmallBrickBase">
 		<DefName>SBrickGranite</DefName>
-		<label>granite small bricks</label>
+		<label>Granite Small bricks</label>
 		<color>(105,95,97)</color>
 		<CostList>
 			<BlocksGranite>4</BlocksGranite>
@@ -1168,7 +1168,7 @@ Beauty: 10.</Description>
 	</TerrainDef>
 	<TerrainDef ParentName="SmallBrickBase">
 		<DefName>SBrickLimestone</DefName>
-		<label>limestone small bricks</label>
+		<label>Limestone Small Bricks</label>
 		<color>(158,153,135)</color>
 		<CostList>
 			<BlocksLimestone>4</BlocksLimestone>
@@ -1176,7 +1176,7 @@ Beauty: 10.</Description>
 	</TerrainDef>
 	<TerrainDef ParentName="SmallBrickBase">
 		<DefName>SBrickSlate</DefName>
-		<label>slate small bricks</label>
+		<label>Slate Small Bricks</label>
 		<color>(70,70,70)</color>
 		<CostList>
 			<BlocksSlate>4</BlocksSlate>
@@ -1184,7 +1184,7 @@ Beauty: 10.</Description>
 	</TerrainDef>
 	<TerrainDef ParentName="SmallBrickBase">
 		<DefName>SBrickMarble</DefName>
-		<label>marble small bricks</label>
+		<label>Marble Small Bricks</label>
 		<color>(132,135,132)</color>
 		<CostList>
 			<BlocksMarble>4</BlocksMarble>
@@ -1195,7 +1195,7 @@ Beauty: 10.</Description>
 
 	<TerrainDef ParentName="MedBrickBase">
 		<DefName>MedBrickSandstone</DefName>
-		<label>sandstone Mediterranean bricks</label>
+		<label>Sandstone Mediterranean Bricks</label>
 		<color>(126,104,94)</color>
 		<CostList>
 			<BlocksSandstone>4</BlocksSandstone>
@@ -1203,7 +1203,7 @@ Beauty: 10.</Description>
 	</TerrainDef>
 	<TerrainDef ParentName="MedBrickBase">
 		<DefName>MedBrickGranite</DefName>
-		<label>granite Mediterranean bricks</label>
+		<label>Granite Mediterranean Bricks</label>
 		<color>(105,95,97)</color>
 		<CostList>
 			<BlocksGranite>4</BlocksGranite>
@@ -1211,7 +1211,7 @@ Beauty: 10.</Description>
 	</TerrainDef>
 	<TerrainDef ParentName="MedBrickBase">
 		<DefName>MedBrickLimestone</DefName>
-		<label>limestone Mediterranean bricks</label>
+		<label>Limestone Mediterranean Bricks</label>
 		<color>(158,153,135)</color>
 		<CostList>
 			<BlocksLimestone>4</BlocksLimestone>
@@ -1219,7 +1219,7 @@ Beauty: 10.</Description>
 	</TerrainDef>
 	<TerrainDef ParentName="MedBrickBase">
 		<DefName>MedBrickSlate</DefName>
-		<label>slate Mediterranean bricks</label>
+		<label>Slate Mediterranean Bricks</label>
 		<color>(70,70,70)</color>
 		<CostList>
 			<BlocksSlate>4</BlocksSlate>
@@ -1227,7 +1227,7 @@ Beauty: 10.</Description>
 	</TerrainDef>
 	<TerrainDef ParentName="MedBrickBase">
 		<DefName>MedBrickMarble</DefName>
-		<label>marble Mediterranean bricks</label>
+		<label>Marble Mediterranean Bricks</label>
 		<color>(132,135,132)</color>
 		<CostList>
 			<BlocksMarble>4</BlocksMarble>
@@ -1236,27 +1236,27 @@ Beauty: 10.</Description>
 
 	<TerrainDef ParentName="CobblestoneBase">
 		<DefName>CobbleFloorSandstone</DefName>
-		<label>sandstone cobble floor</label>
+		<label>Sandstone Cobble Floor</label>
 		<color>(126,104,94)</color>
 	</TerrainDef>	
 	<TerrainDef ParentName="CobblestoneBase">
 		<DefName>CobbleFloorGranite</DefName>
-		<label>granite cobble floor</label>
+		<label>Granite Cobble Floor</label>
 		<color>(105,95,97)</color>
 	</TerrainDef>	
 	<TerrainDef ParentName="CobblestoneBase">
 		<DefName>CobbleFloorLimestone</DefName>
-		<label>limestone cobble floor</label>
+		<label>Limestone Cobble Floor</label>
 		<color>(158,153,135)</color>
 	</TerrainDef>	
 	<TerrainDef ParentName="CobblestoneBase">
 		<DefName>CobbleFloorSlate</DefName>
-		<label>slate cobble floor</label>
+		<label>Slate Cobble Floor</label>
 		<color>(70,70,70)</color>
 	</TerrainDef>	
 	<TerrainDef ParentName="CobblestoneBase">
 		<DefName>CobbleFloorMarble</DefName>
-		<label>marble cobble floor</label>
+		<label>Marble Cobble Floor</label>
 		<color>(132,135,132)</color>
 	</TerrainDef>	
 
@@ -1264,7 +1264,7 @@ Beauty: 10.</Description>
 
 	<TerrainDef ParentName="BrickUnevenBase">
 		<DefName>UEBrickSandstone</DefName>
-		<label>sandstone uneven bricks</label>
+		<label>Sandstone Uneven Bricks</label>
 		<color>(126,104,94)</color>
 		<CostList>
 			<BlocksSandstone>4</BlocksSandstone>
@@ -1272,7 +1272,7 @@ Beauty: 10.</Description>
 	</TerrainDef>
 	<TerrainDef ParentName="BrickUnevenBase">
 		<DefName>UEBrickGranite</DefName>
-		<label>granite uneven bricks</label>
+		<label>Granite Uneven Bricks</label>
 		<color>(105,95,97)</color>
 		<CostList>
 			<BlocksGranite>4</BlocksGranite>
@@ -1280,7 +1280,7 @@ Beauty: 10.</Description>
 	</TerrainDef>
 	<TerrainDef ParentName="BrickUnevenBase">
 		<DefName>UEBrickLimestone</DefName>
-		<label>limestone uneven bricks</label>
+		<label>Limestone Uneven Bricks</label>
 		<color>(158,153,135)</color>
 		<CostList>
 			<BlocksLimestone>4</BlocksLimestone>
@@ -1288,7 +1288,7 @@ Beauty: 10.</Description>
 	</TerrainDef>
 	<TerrainDef ParentName="BrickUnevenBase">
 		<DefName>UEBrickSlate</DefName>
-		<label>slate uneven bricks</label>
+		<label>Slate Uneven Bricks</label>
 		<color>(70,70,70)</color>
 		<CostList>
 			<BlocksSlate>4</BlocksSlate>
@@ -1296,7 +1296,7 @@ Beauty: 10.</Description>
 	</TerrainDef>
 	<TerrainDef ParentName="BrickUnevenBase">
 		<DefName>UEBrickMarble</DefName>
-		<label>marble uneven bricks</label>
+		<label>Marble Uneven Bricks</label>
 		<color>(132,135,132)</color>
 		<CostList>
 			<BlocksMarble>4</BlocksMarble>
@@ -1307,7 +1307,7 @@ Beauty: 10.</Description>
 
 	<TerrainDef ParentName="StoneTileBase">
 		<DefName>EXF_TileSandstone</DefName>
-		<label>sandstone tiles</label>
+		<label>Sandstone Tiles</label>
 		<color>(126,104,94)</color>
 		<CostList>
 			<BlocksSandstone>4</BlocksSandstone>
@@ -1315,7 +1315,7 @@ Beauty: 10.</Description>
 	</TerrainDef>
 	<TerrainDef ParentName="StoneTileBase">
 		<DefName>EXF_TileGranite</DefName>
-		<label>granite tiles</label>
+		<label>Granite Tiles</label>
 		<color>(105,95,97)</color>
 		<CostList>
 			<BlocksGranite>4</BlocksGranite>
@@ -1323,7 +1323,7 @@ Beauty: 10.</Description>
 	</TerrainDef>
 	<TerrainDef ParentName="StoneTileBase">
 		<DefName>EXF_TileLimestone</DefName>
-		<label>limestone tiles</label>
+		<label>Limestone Tiles</label>
 		<color>(158,153,135)</color>
 		<CostList>
 			<BlocksLimestone>4</BlocksLimestone>
@@ -1331,7 +1331,7 @@ Beauty: 10.</Description>
 	</TerrainDef>
 	<TerrainDef ParentName="StoneTileBase">
 		<DefName>EXF_TileSlate</DefName>
-		<label>slate tiles</label>
+		<label>Slate Tiles</label>
 		<color>(70,70,70)</color>
 		<CostList>
 			<BlocksSlate>4</BlocksSlate>
@@ -1339,7 +1339,7 @@ Beauty: 10.</Description>
 	</TerrainDef>
 	<TerrainDef ParentName="StoneTileBase">
 		<DefName>EXF_TileMarble</DefName>
-		<label>marble tiles</label>
+		<label>Marble Tiles</label>
 		<color>(132,135,132)</color>
 		<CostList>
 			<BlocksMarble>4</BlocksMarble>
@@ -1350,7 +1350,7 @@ Beauty: 10.</Description>
 
 	<TerrainDef ParentName="BrickHerringboneBase">
 		<DefName>HerrBrickSandstone</DefName>
-		<label>sandstone herringbone bricks</label>
+		<label>Sandstone Herringbone Bricks</label>
 		<color>(126,104,94)</color>
 		<CostList>
 			<BlocksSandstone>4</BlocksSandstone>
@@ -1358,7 +1358,7 @@ Beauty: 10.</Description>
 	</TerrainDef>
 	<TerrainDef ParentName="BrickHerringboneBase">
 		<DefName>HerrBrickGranite</DefName>
-		<label>granite herringbone bricks</label>
+		<label>Granite Herringbone Bricks</label>
 		<color>(105,95,97)</color>
 		<CostList>
 			<BlocksGranite>4</BlocksGranite>
@@ -1366,7 +1366,7 @@ Beauty: 10.</Description>
 	</TerrainDef>
 	<TerrainDef ParentName="BrickHerringboneBase">
 		<DefName>HerrBrickLimestone</DefName>
-		<label>limestone herringbone bricks</label>
+		<label>Limestone Herringbone Bricks</label>
 		<color>(158,153,135)</color>
 		<CostList>
 			<BlocksLimestone>4</BlocksLimestone>
@@ -1374,7 +1374,7 @@ Beauty: 10.</Description>
 	</TerrainDef>
 	<TerrainDef ParentName="BrickHerringboneBase">
 		<DefName>HerrBrickSlate</DefName>
-		<label>slate herringbone bricks</label>
+		<label>Slate Herringbone Bricks</label>
 		<color>(70,70,70)</color>
 		<CostList>
 			<BlocksSlate>4</BlocksSlate>
@@ -1382,7 +1382,7 @@ Beauty: 10.</Description>
 	</TerrainDef>
 	<TerrainDef ParentName="BrickHerringboneBase">
 		<DefName>HerrBrickMarble</DefName>
-		<label>marble herringbone bricks</label>
+		<label>Marble Herringbone Bricks</label>
 		<color>(132,135,132)</color>
 		<CostList>
 			<BlocksMarble>4</BlocksMarble>
@@ -1543,7 +1543,7 @@ Beauty: -1.</Description>
 
 	<TerrainDef ParentName="TileStoneBase">
 		<DefName>FloorStoneSlabsSandstone</DefName>
-		<Label>Stone Slabs (Sandstone)</Label>
+		<Label>Sandstone Stone Slabs</Label>
 		<color>(126,104,94)</color>
 		<RenderPrecedence>270</RenderPrecedence>
 		<Description>Stone flooring made with square slabs. Sandstone version. 
@@ -1558,7 +1558,7 @@ Beauty: 3.</Description>
 
 	<TerrainDef ParentName="TileStoneBase">
 		<DefName>FloorStoneSlabsGranite</DefName>
-		<Label>Stone Slabs (Granite)</Label>
+		<Label>Granite Stone Slabs</Label>
 		<color>(105,95,97)</color>
 		<RenderPrecedence>270</RenderPrecedence>
 		<Description>Stone flooring made with square slabs. Granite version.
@@ -1573,7 +1573,7 @@ Beauty: 3.</Description>
 
 	<TerrainDef ParentName="TileStoneBase">
 		<DefName>FloorStoneSlabsLimestone</DefName>
-		<Label>Stone Slabs (Limestone)</Label>
+		<Label>Limestone Stone Slabs</Label>
 		<color>(158,153,135)</color>
 		<RenderPrecedence>270</RenderPrecedence>
 		<Description>Stone flooring made with square slabs. Limestone version. 
@@ -1588,7 +1588,7 @@ Beauty: 3.</Description>
 
 	<TerrainDef ParentName="TileStoneBase">
 		<DefName>FloorStoneSlabsSlate</DefName>
-		<Label>Stone Slabs (Slate)</Label>
+		<Label>Slate Stone Slabs</Label>
 		<color>(70,70,70)</color>
 		<RenderPrecedence>270</RenderPrecedence>
 		<Description>Stone flooring made with square slabs. Slate version. 
@@ -1603,7 +1603,7 @@ Beauty: 3.</Description>
 
 	<TerrainDef ParentName="TileStoneBase">
 		<DefName>FloorStoneSlabsMarble</DefName>
-		<Label>Stone Slabs (Marble)</Label>
+		<Label>Marble Stone Slabs</Label>
 		<color>(132,135,132)</color>
 		<RenderPrecedence>270</RenderPrecedence>
 		<Description>Stone flooring made with square slabs. Marble version. 
@@ -1620,10 +1620,10 @@ Beauty: 3.</Description>
 
 	<TerrainDef ParentName="TileStoneBase">
 		<defName>FloorStoneHexSandstone</defName>
-		<Label>Hex Paving (Sandstone)</Label>
+		<Label>Sandstone Hex Pavers</Label>
 		<color>(126,104,94)</color>
 		<RenderPrecedence>269</RenderPrecedence>
-		<Description>Stone paving with hexagonal tiles. Sandstone version. 
+		<Description>Stone pavers cut into a hexagon shape. Sandstone version. 
 Beauty: 3.</Description>
 		<texturePath>Terrain/Surfaces/StoneHex</texturePath>
 		<researchPrerequisites><li>FloorArtIV</li></researchPrerequisites>
@@ -1635,10 +1635,10 @@ Beauty: 3.</Description>
 
 	<TerrainDef ParentName="TileStoneBase">
 		<defName>FloorStoneHexGranite</defName>
-		<Label>Hex Paving (Granite)</Label>
+		<Label>Granite Hex Pavers</Label>
 		<color>(105,95,97)</color>
 		<RenderPrecedence>269</RenderPrecedence>
-		<Description>Stone paving with hexagonal tiles. Granite version. 
+		<Description>Stone pavers cut into a hexagon shape. Granite version. 
 Beauty: 3.</Description>
 		<texturePath>Terrain/Surfaces/StoneHex</texturePath>
 		<researchPrerequisites><li>FloorArtIV</li></researchPrerequisites>
@@ -1650,10 +1650,10 @@ Beauty: 3.</Description>
 
 	<TerrainDef ParentName="TileStoneBase">
 		<defName>FloorStoneHexLimestone</defName>
-		<Label>Hex Paving (Limestone)</Label>
+		<Label>Limestone Hex Pavers</Label>
 		<color>(158,153,135)</color>
 		<RenderPrecedence>269</RenderPrecedence>
-		<Description>Stone paving with hexagonal tiles. Limestone version. 
+		<Description>Stone pavers cut into a hexagon shape. Limestone version. 
 Beauty: 3.</Description>
 		<texturePath>Terrain/Surfaces/StoneHex</texturePath>
 		<researchPrerequisites><li>FloorArtIV</li></researchPrerequisites>
@@ -1665,10 +1665,10 @@ Beauty: 3.</Description>
 
 	<TerrainDef ParentName="TileStoneBase">
 		<defName>FloorStoneHexSlate</defName>
-		<Label>Hex Paving (Slate)</Label>
+		<Label>Slate Hex Pavers</Label>
 		<color>(70,70,70)</color>
 		<RenderPrecedence>269</RenderPrecedence>
-		<Description>Stone paving with hexagonal tiles. Slate version. 
+		<Description>Stone pavers cut into a hexagon shape. Slate version. 
 Beauty: 3.</Description>
 		<texturePath>Terrain/Surfaces/StoneHex</texturePath>
 		<researchPrerequisites><li>FloorArtIV</li></researchPrerequisites>
@@ -1680,10 +1680,10 @@ Beauty: 3.</Description>
 
 	<TerrainDef ParentName="TileStoneBase">
 		<defName>FloorStoneHexMarble</defName>
-		<Label>Hex Paving (Marble)</Label>
+		<Label>Marble Hex Pavers</Label>
 		<color>(132,135,132)</color>
 		<RenderPrecedence>269</RenderPrecedence>
-		<Description>Stone paving with hexagonal tiles. Marble version. 
+		<Description>Stone pavers cut into a hexagon shape. Marble version. 
 Beauty: 3.</Description>
 		<texturePath>Terrain/Surfaces/StoneHex</texturePath>
 		<researchPrerequisites><li>FloorArtIV</li></researchPrerequisites>
@@ -1697,10 +1697,10 @@ Beauty: 3.</Description>
 
 	<TerrainDef ParentName="TileStoneBase">
 		<defName>FloorStoneMosaicSandstone</defName>
-		<Label>Mosaic Paving (Sandstone)</Label>
+		<Label>Sandstone Mosiac Pavers</Label>
 		<color>(126,104,94)</color>
 		<RenderPrecedence>268</RenderPrecedence>
-		<Description>Stone paving with a light/dark mosaic. Sandstone version. 
+		<Description>Stone pavers with a light/dark mosaic. Sandstone version. 
 Beauty: 3.</Description>
 		<texturePath>Terrain/Surfaces/StoneMosaic</texturePath>
 		<researchPrerequisites><li>FloorArtIV</li></researchPrerequisites>
@@ -1712,10 +1712,10 @@ Beauty: 3.</Description>
 
 	<TerrainDef ParentName="TileStoneBase">
 		<defName>FloorStoneMosaicGranite</defName>
-		<Label>Mosaic Paving (Granite)</Label>
+		<Label>Granite Mosiac Pavers</Label>
 		<color>(105,95,97)</color>
 		<RenderPrecedence>268</RenderPrecedence>
-		<Description>Stone paving with a light/dark mosaic. Granite version. 
+		<Description>Stone pavers with a light/dark mosaic. Granite version. 
 Beauty: 3.</Description>
 		<texturePath>Terrain/Surfaces/StoneMosaic</texturePath>
 		<researchPrerequisites><li>FloorArtIV</li></researchPrerequisites>
@@ -1727,10 +1727,10 @@ Beauty: 3.</Description>
 
 	<TerrainDef ParentName="TileStoneBase">
 		<defName>FloorStoneMosaicLimestone</defName>
-		<Label>Mosaic Paving (Limestone)</Label>
+		<Label>Limestone Mosiac Pavers</Label>
 		<color>(158,153,135)</color>
 		<RenderPrecedence>268</RenderPrecedence>
-		<Description>Stone paving with a light/dark mosaic. Limestone version. 
+		<Description>Stone pavers with a light/dark mosaic. Limestone version. 
 Beauty: 3.</Description>
 		<texturePath>Terrain/Surfaces/StoneMosaic</texturePath>
 		<researchPrerequisites><li>FloorArtIV</li></researchPrerequisites>
@@ -1742,10 +1742,10 @@ Beauty: 3.</Description>
 
 	<TerrainDef ParentName="TileStoneBase">
 		<defName>FloorStoneMosaicSlate</defName>
-		<Label>Mosaic Paving (Slate)</Label>
+		<Label>Slate Mosiac Pavers</Label>
 		<color>(70,70,70)</color>
 		<RenderPrecedence>268</RenderPrecedence>
-		<Description>Stone paving with a light/dark mosaic. Slate version. 
+		<Description>Stone pavers with a light/dark mosaic. Slate version. 
 Beauty: 3.</Description>
 		<texturePath>Terrain/Surfaces/StoneMosaic</texturePath>
 		<researchPrerequisites><li>FloorArtIV</li></researchPrerequisites>
@@ -1757,10 +1757,10 @@ Beauty: 3.</Description>
 
 	<TerrainDef ParentName="TileStoneBase">
 		<defName>FloorStoneMosaicMarble</defName>
-		<Label>Mosaic Paving (Marble)</Label>
+		<Label>Marble Mosiac Pavers</Label>
 		<color>(132,135,132)</color>
 		<RenderPrecedence>268</RenderPrecedence>
-		<Description>Stone paving with a light/dark mosaic. Marble version. 
+		<Description>Stone pavers with a light/dark mosaic. Marble version. 
 Beauty: 3.</Description>
 		<texturePath>Terrain/Surfaces/StoneMosaic</texturePath>
 		<researchPrerequisites><li>FloorArtIV</li></researchPrerequisites>
@@ -1774,10 +1774,10 @@ Beauty: 3.</Description>
 
 	<TerrainDef ParentName="TileStoneBase">
 		<defName>FloorStoneRoughSandstone</defName>
-		<Label>Rough Paving (Sandstone)</Label>
+		<Label>Sandstone Rough Pavers</Label>
 		<color>(126,104,94)</color>
 		<RenderPrecedence>267</RenderPrecedence>
-		<Description>Rough stone paving. Sandstone version. 
+		<Description>Rough stone pavers. Sandstone version. 
 Beauty: 3.</Description>
 		<texturePath>Terrain/Surfaces/StoneRough</texturePath>
 		<researchPrerequisites><li>FloorArt</li></researchPrerequisites>
@@ -1789,10 +1789,10 @@ Beauty: 3.</Description>
 
 	<TerrainDef ParentName="TileStoneBase">
 		<defName>FloorStoneRoughGranite</defName>
-		<Label>Rough Paving (Granite)</Label>
+		<Label>Granite Rough Pavers</Label>
 		<color>(105,95,97)</color>
 		<RenderPrecedence>267</RenderPrecedence>
-		<Description>Rough stone paving. Granite version. 
+		<Description>Rough stone pavers. Granite version. 
 Beauty: 3.</Description>
 		<texturePath>Terrain/Surfaces/StoneRough</texturePath>
 		<researchPrerequisites><li>FloorArt</li></researchPrerequisites>
@@ -1804,10 +1804,10 @@ Beauty: 3.</Description>
 
 	<TerrainDef ParentName="TileStoneBase">
 		<defName>FloorStoneRoughLimestone</defName>
-		<Label>Rough Paving (Limestone)</Label>
+		<Label>Limestone Rough Pavers</Label>
 		<color>(158,153,135)</color>
 		<RenderPrecedence>267</RenderPrecedence>
-		<Description>Rough stone paving. Limestone version. 
+		<Description>Rough stone pavers. Limestone version. 
 Beauty: 3.</Description>
 		<texturePath>Terrain/Surfaces/StoneRough</texturePath>
 		<researchPrerequisites><li>FloorArt</li></researchPrerequisites>
@@ -1819,10 +1819,10 @@ Beauty: 3.</Description>
 
 	<TerrainDef ParentName="TileStoneBase">
 		<defName>FloorStoneRoughSlate</defName>
-		<Label>Rough Paving (Slate)</Label>
+		<Label>Slate Rough Pavers</Label>
 		<color>(70,70,70)</color>
 		<RenderPrecedence>267</RenderPrecedence>
-		<Description>Rough stone paving. Slate version. 
+		<Description>Rough stone pavers. Slate version. 
 Beauty: 3.</Description>
 		<texturePath>Terrain/Surfaces/StoneRough</texturePath>
 		<researchPrerequisites><li>FloorArt</li></researchPrerequisites>
@@ -1834,10 +1834,10 @@ Beauty: 3.</Description>
 
 	<TerrainDef ParentName="TileStoneBase">
 		<defName>FloorStoneRoughMarble</defName>
-		<Label>Rough Paving (Marble)</Label>
+		<Label>Marble Rough Pavers</Label>
 		<color>(132,135,132)</color>
 		<RenderPrecedence>267</RenderPrecedence>
-		<Description>Rough stone paving. Marble version. 
+		<Description>Rough stone pavers. Marble version. 
 Beauty: 3.</Description>
 		<texturePath>Terrain/Surfaces/StoneRough</texturePath>
 		<researchPrerequisites><li>FloorArt</li></researchPrerequisites>
@@ -1851,10 +1851,10 @@ Beauty: 3.</Description>
 
 	<TerrainDef ParentName="TileStoneBase">
 		<defName>FloorStoneRandomSandstone</defName>
-		<Label>Random Paving (Sandstone)</Label>
+		<Label>Sandstone Random Pavers</Label>
 		<color>(126,104,94)</color>
 		<RenderPrecedence>266</RenderPrecedence>
-		<Description>Stone paving with random square and rectangular slabs. Sandstone version. 
+		<Description>Stone pavers with a random mix of square and rectangular pieces. Sandstone version. 
 Beauty: 3.</Description>
 		<texturePath>Terrain/Surfaces/StoneRandom</texturePath>
 		<researchPrerequisites><li>FloorArtII</li></researchPrerequisites>
@@ -1866,10 +1866,10 @@ Beauty: 3.</Description>
 
 	<TerrainDef ParentName="TileStoneBase">
 		<defName>FloorStoneRandomGranite</defName>
-		<Label>Random Paving (Granite)</Label>
+		<Label>Granite Random Pavers</Label>
 		<color>(105,95,97)</color>
 		<RenderPrecedence>266</RenderPrecedence>
-		<Description>Stone paving with random square and rectangular slabs. Granite version. 
+		<Description>Stone pavers with a random mix of square and rectangular pieces. Granite version. 
 Beauty: 3.</Description>
 		<texturePath>Terrain/Surfaces/StoneRandom</texturePath>
 		<researchPrerequisites><li>FloorArtII</li></researchPrerequisites>
@@ -1881,10 +1881,10 @@ Beauty: 3.</Description>
 
 	<TerrainDef ParentName="TileStoneBase">
 		<defName>FloorStoneRandomLimestone</defName>
-		<Label>Random Paving (Limestone)</Label>
+		<Label>Limestone Random Pavers</Label>
 		<color>(158,153,135)</color>
 		<RenderPrecedence>266</RenderPrecedence>
-		<Description>Stone paving with random square and rectangular slabs. Limestone version. 
+		<Description>Stone pavers with a random mix of square and rectangular pieces. Limestone version. 
 Beauty: 3.</Description>
 		<texturePath>Terrain/Surfaces/StoneRandom</texturePath>
 		<researchPrerequisites><li>FloorArtII</li></researchPrerequisites>
@@ -1896,10 +1896,10 @@ Beauty: 3.</Description>
 
 	<TerrainDef ParentName="TileStoneBase">
 		<defName>FloorStoneRandomSlate</defName>
-		<Label>Random Paving (Slate)</Label>
+		<Label>Slate Random Pavers</Label>
 		<color>(70,70,70)</color>
 		<RenderPrecedence>266</RenderPrecedence>
-		<Description>Stone paving with random square and rectangular slabs. Slate version. 
+		<Description>Stone pavers with a random mix of square and rectangular pieces. Slate version. 
 Beauty: 3.</Description>
 		<texturePath>Terrain/Surfaces/StoneRandom</texturePath>
 		<researchPrerequisites><li>FloorArtII</li></researchPrerequisites>
@@ -1911,10 +1911,10 @@ Beauty: 3.</Description>
 
 	<TerrainDef ParentName="TileStoneBase">
 		<defName>FloorStoneRandomMarble</defName>
-		<Label>Random Paving (Marble)</Label>
+		<Label>Marble Random Pavers</Label>
 		<color>(132,135,132)</color>
 		<RenderPrecedence>266</RenderPrecedence>
-		<Description>Stone paving with random square and rectangular slabs. Marble version.
+		<Description>Stone pavers with a random mix of square and rectangular pieces. Marble version.
 Beauty: 3.</Description>
 		<texturePath>Terrain/Surfaces/StoneRandom</texturePath>
 		<researchPrerequisites><li>FloorArtII</li></researchPrerequisites>

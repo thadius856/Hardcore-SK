@@ -87,7 +87,7 @@
 
     <ThingDef ParentName="PipeBase">
         <defName>RedistHeat_DuctPipeUpper</defName>
-        <label>Duct pipe (upper)</label>
+        <label>Duct Pipe (upper)</label>
         <graphicData>
             <texPath>Things/Building/Linked/DuctPipeUpper</texPath>
             <linkFlags>
@@ -105,7 +105,7 @@
 
     <ThingDef ParentName="PipeBase">
         <defName>RedistHeat_DuctPipeLower</defName>
-        <label>Duct pipe (lower)</label>
+        <label>Duct Pipe (lower)</label>
         <graphicData>
             <texPath>Things/Building/Linked/DuctPipeLower</texPath>
             <linkFlags>
@@ -162,7 +162,7 @@
     <ThingDef ParentName="DuctBuildingBaseDuckwork">
         <defName>RedistHeat_DuctOutlet</defName>
         <thingClass>RedistHeat.Building_DuctComp</thingClass>
-        <label>Duct outlet</label>
+        <label>Duct Outlet</label>
         <description>A duct building that pulls air from network.</description>
         <graphicData>
             <graphicClass>RedistHeat.Graphic_MultiDXT5</graphicClass>
@@ -203,7 +203,7 @@
     <ThingDef ParentName="DuctBuildingBaseDuckwork">
         <defName>RedistHeat_SmartDuctOutlet</defName>
         <thingClass>RedistHeat.Building_SmartDuctOutlet</thingClass>
-        <label>Smart duct outlet</label>
+        <label>Smart Duct Outlet</label>
         <description>A duct building that pulls air from network. It can automatically open or close itself to control airflow.</description>
         <graphicData>
             <texPath>Things/Building/AirNet/SmartDuctOutlet</texPath>
@@ -287,7 +287,7 @@
     <ThingDef ParentName="DuctCompBase">
         <defName>RedistHeat_DuctCooler</defName>
         <thingClass>RedistHeat.Building_DuctCooler</thingClass>
-        <label>Duct cooler</label>
+        <label>Duct Cooler</label>
         <description>A duct building that cools air within its network. Generates a lot of heat.</description>
         <graphicData>
             <graphicClass>RedistHeat.Graphic_SingleDXT5</graphicClass>

@@ -292,7 +292,7 @@
   <!-- Artifact -->
   <UseArtifact>Activate</UseArtifact>
   
-  <!-- Firefoam popper -->
+  <!-- Firefoam Popper -->
   <TriggerFirefoamPopper>Trigger firefoam popper</TriggerFirefoamPopper>
   
   <!-- Minification -->

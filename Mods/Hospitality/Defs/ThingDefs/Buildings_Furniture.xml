@@ -84,7 +84,7 @@
   
   <ThingDef ParentName="FurnitureBase">
     <defName>GuestBed</defName>
-    <label>guest bed</label>
+    <label>Guest Bed</label>
     <Description>A place for guests to sleep during their stay.</Description>
     <ThingClass>Hospitality.Building_GuestBed</ThingClass>
     <graphicData>

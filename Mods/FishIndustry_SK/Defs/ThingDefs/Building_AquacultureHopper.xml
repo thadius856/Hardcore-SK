@@ -4,7 +4,7 @@
 
   <ThingDef ParentName="BuildingBase">
     <defName>AquacultureHopper</defName>
-    <label>aquaculture hopper</label>
+    <label>Aquaculture Hopper</label>
     <description>Holds food to feed bred species in aquaculture basins. This hopper is refrigerated and food within will not spoil if powered.</description>
     <thingClass>FishIndustry.Building_AquacultureHopper</thingClass>
     <placeWorkers>
